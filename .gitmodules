@@ -1,0 +1,6 @@
+[submodule "skywalking-ui"]
+	path = skywalking-ui
+	url = http://192.168.120.68/root/incubator-skywalking-ui.git
+[submodule "apm-protocol/apm-network/src/main/proto"]
+	path = apm-protocol/apm-network/src/main/proto
+	url = https://github.com/apache/incubator-skywalking-data-collect-protocol.git
